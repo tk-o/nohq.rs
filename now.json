@@ -1,0 +1,1 @@
+{"version":2,"name":"nohq.rs","builds":[{"src":"package.json","use":"@now/next"}]}
